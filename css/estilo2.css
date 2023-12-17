@@ -1,0 +1,55 @@
+html,body{
+	margin: 0px;
+	height: 100%;
+	font-family:  Trebuchet MS, sans-serif;
+	width: 100%;
+}
+#cabecalho{
+	background-color: #9370DB;
+	height: 110px;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+#logo img{
+	padding-left: 270px;
+	width: 200px;
+	height: auto;
+	margin-top:-15px; 
+}
+#menu{
+	float: right;
+	margin: 40px;
+	margin-right: 400px;
+	font-size: 20px;
+
+
+}
+#menu a:link{
+	padding-right: 50px;
+	text-decoration: none;
+	color: black;
+}
+#fundo1{
+	width: 500px;
+	font-size: 20px;
+	margin: 100px 10px 20px 130px;
+}
+p{
+	padding-left:20px;
+}
+#fundo2{
+	float: right;
+	margin-top: -470px; 
+	padding-left: -250px;
+}
+#fundo2 img{
+	width: 850px;
+
+}
+#rodape{
+	margin: 80px;
+	text-align: center;
+}

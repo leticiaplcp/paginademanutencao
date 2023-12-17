@@ -1,0 +1,51 @@
+html,body{
+	margin: 0px;
+	font-family:  Trebuchet MS, sans-serif;
+	height: 100%
+}
+#cabecalho{
+	height: 120px;
+	width: 100%;
+	background-color: #9370DB;
+	margin: 0 auto 0;
+
+}
+#cabecalho img{
+	margin-left: 300px;
+	margin-right: 50px;
+	width: 12%;
+}
+#cabecalho a:link{
+	padding: 0px 30px;
+	margin-bottom: 50px;
+	text-align: center;
+	float: center;
+	background-color: black;
+
+	
+}
+
+#fundo{
+	margin: 0 auto 0;
+}
+#parte1{
+	width: 1400px;
+	margin: 90px 50px 90px 150px;
+	height: auto;
+	float: left;
+	
+
+}
+#parte1 h1{
+	font-size: 40px;
+}
+#parte1 p{
+	width: 500px;
+	font-size: 20px;
+}
+#parte2 img{
+	float: right;
+	width: 55%;
+	margin-top: -450px;
+	
+}
