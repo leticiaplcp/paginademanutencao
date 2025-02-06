@@ -1,6 +1,6 @@
 # Página de Manutenção - InovaTech
 
-A proposta do site foi realizar uma página de manutenção da empresa fictíca "InovaTech", na qual era necessário para compor o Trabalho de Conclusão de Curso do Tecnico em Informatica para Internet.
+A proposta do site foi desenvolver uma página de manutenção para a empresa fictícia "InovaTech", como parte do Trabalho de Conclusão do Curso do Técnico em Informática para Internet.
 
 Modelo:
 
